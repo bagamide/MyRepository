@@ -1,7 +1,4 @@
 Hello Git!
 1+1=2?
-<<<<<<< HEAD
 SX
-=======
 sb
->>>>>>> test1
